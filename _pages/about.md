@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Biography"
-excerpt: "About me"
+# title: "Biography"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Biography
+======
 
 Zheyuan He received his M.S. degrees from University of Electronic Science and Technology of China, advised by [Prof. Ting Chen](https://faculty.uestc.edu.cn/chenting/zh_CN/index.htm). He is currently working towards the PhD degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm). His current research interests include security of blockchain.
 
