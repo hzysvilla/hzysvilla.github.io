@@ -12,9 +12,9 @@ Zheyuan He received his M.S. degrees from University of Electronic Science and T
 
 Projects
 ======
-[Academic Smart Contract Papers Collections](https://github.com/hzysvilla/Academic_Smart_Contract_Papers): 250 stars.
+[The collections of Academic Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers): 250 Stars.
 
-[Security Smart Contract Papers TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md): 250 starts.
+[My TLDR for Security Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md): 250 Starts.
 
 Publications
 ======
