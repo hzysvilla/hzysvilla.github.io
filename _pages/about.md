@@ -20,7 +20,7 @@ Publications
 ======
 
 * NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation. 
-[[pdf]]()
+[[pdf]](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf)
 [[code]]() <br>
 <u><b>Z. He</b></u>, Z. Li(Co-first Author), A. Qiao, X. Luo, X. Zhang, T. Chen, S. Song, D. Liu, W. Niu <br>
 <i>IEEE Symposium on Security and Privacy</i> (**Oakland**), 2024. <b>CCF-A</b>.
