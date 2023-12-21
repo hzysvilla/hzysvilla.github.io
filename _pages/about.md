@@ -31,7 +31,7 @@ Publications
 Z. Li, J. Li, <u><b>Z. He</b></u>, X. Luo, T. Wang, X. Ni, W. Yang, X. Chen, T. Chen<br>
 <i>ACM Conference on Computer and Communications Security</i> (**CCS**), 2023. <b>CCF-A</b>.
 
-* SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network. 
+* SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network. 
 [[pdf]]()
 [[code]]() <br>
 Feng Luo, Ruijie Luo, Ting Chen, Ao Qiao, <u><b>Zheyuan He</b></u>, Shuwei Song, Yu Jiang, Sixing Li<br>
