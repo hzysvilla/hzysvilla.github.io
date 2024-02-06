@@ -14,7 +14,7 @@ Projects
 ======
 [The collections of Academic Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers): 250 Stars.
 
-[My TLDR for Security Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md): 250 Starts.
+[My TLDR for Security Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md): 250 Stars.
 
 Publications
 ======
