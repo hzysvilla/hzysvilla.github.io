@@ -19,14 +19,20 @@ Projects
 Publications
 ======
 
+* Large Language Models for Blockchain Security: A Systematic Literature Review.
+[[pdf]](https://arxiv.org/pdf/2403.14280.pdf)
+[[code]]() <br>
+<u><b>Z. He</b></u>, Z. Li, Sen. Yang <br>
+<i>Arxiv</i> (**arxiv**), 2024. <b>None</b>.
+
 * NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation. 
-[[pdf]](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf)
+[[pdf]](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2024/3130/00/313000a125.pdf)
 [[code]]() <br>
 <u><b>Z. He</b></u>, Z. Li(Co-first Author), A. Qiao, X. Luo, X. Zhang, T. Chen, S. Song, D. Liu, W. Niu <br>
 <i>IEEE Symposium on Security and Privacy</i> (**Oakland**), 2024. <b>CCF-A</b>.
 
 * Demystifying DeFi MEV Activities in Flashbots Bundle. 
-[[pdf]]()
+[[pdf]](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf)
 [[code]]() <br>
 Z. Li, J. Li, <u><b>Z. He</b></u>, X. Luo, T. Wang, X. Ni, W. Yang, X. Chen, T. Chen<br>
 <i>ACM Conference on Computer and Communications Security</i> (**CCS**), 2023. <b>CCF-A</b>.
