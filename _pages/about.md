@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Zheyuan He is currently pursuing his PhD degree at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm). Concurrently, he is undertaking an exchange program at the lab of [Martin Monperrus](https://www.monperrus.net/martin/). His current research interests include the security of blockchain and client diversity.
+Zheyuan He is currently pursuing his PhD degree at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/en/index.htm). Concurrently, he is undertaking an exchange program at the lab of [Martin Monperrus](https://www.monperrus.net/martin/). His current research interests include the security of blockchain and client diversity.
+
 
 Projects
 ======
