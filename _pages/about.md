@@ -8,27 +8,49 @@ redirect_from:
   - /about.html
 ---
 
-Zheyuan He received his M.S. degrees from University of Electronic Science and Technology of China, advised by [Prof. Ting Chen](https://faculty.uestc.edu.cn/chenting/zh_CN/index.htm). He is currently working towards the PhD degree with the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm). His current research interests include security of blockchain.
+Zheyuan He is currently pursuing his PhD degree at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/zh_CN/index.htm). Concurrently, he is undertaking an exchange program at the lab of [Martin Monperrus](https://www.monperrus.net/martin/). His current research interests include the security of blockchain and client diversity.
 
 Projects
 ======
-[The collections of Academic Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers): 250 Stars.
-
-[My TLDR for Security Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md): 250 Stars.
+[The collections of Academic Smart Contract Papers](https://github.com/hzysvilla/Academic_Smart_Contract_Papers): 400 Stars.
 
 Publications
 ======
 
+* Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks
+[[pdf]](https://arxiv.org/pdf/2411.18401.pdf)
+[[code]]() <br>
+Javier Ron, <u><b>Zheyuan He</b></u>, Martin Monperrus<br>
+<i>Arxiv</i> (**arxiv**), 2024. <b>None</b>.
+
+* Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis.
+[[pdf]]()
+[[code]]() <br>
+Shuwei Song, Jiachi Chen*, Ting Chen, Xiapu Luo, Teng Li, Wenwu Yang, Leqing Wang, Weijie Zhang, Feng Luo, <u><b>Zheyuan He</b></u>, Yi Lu, Pan Li<br>
+<i>The ACM SIGSOFT International Symposium on Software Testing and Analysis</i> (**ISSTA**), 2024. <b>CCF-A</b>.
+
+* Towards Automatic Discovery of Denial-of-Service Weaknesses in Blockchain Resource Models.
+[[pdf]]()
+[[code]]() <br>
+F. Luo, H. Lin, Z. Li, X. Luo, R. Luo, <u><b>Z. He</b></u>, S. Song, T. Chen, W. Luo<br>
+<i>ACM Conference on Computer and Communications Security</i> (**CCS**), 2024. <b>CCF-A</b>.
+
+* fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup.
+[[pdf]](https://arxiv.org/pdf/2410.12210)
+[[code]]() <br>
+Z Li, X Peng, <u><b>Z. He</b></u>, X Luo, T Chen<br>
+<i>ACM Conference on Computer and Communications Security</i> (**CCS**), 2024. <b>CCF-A</b>.
+
 * Large Language Models for Blockchain Security: A Systematic Literature Review.
 [[pdf]](https://arxiv.org/pdf/2403.14280.pdf)
 [[code]]() <br>
-<u><b>Z. He</b></u>, Z. Li, Sen. Yang <br>
+<u><b>Z. He</b></u>, Z. Li, Sen. Yang<br>
 <i>Arxiv</i> (**arxiv**), 2024. <b>None</b>.
 
 * NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation. 
 [[pdf]](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2024/3130/00/313000a125.pdf)
 [[code]]() <br>
-<u><b>Z. He</b></u>, Z. Li(Co-first Author), A. Qiao, X. Luo, X. Zhang, T. Chen, S. Song, D. Liu, W. Niu <br>
+<u><b>Z. He</b></u>, Z. Li(Co-first Author), A. Qiao, X. Luo, X. Zhang, T. Chen, S. Song, D. Liu, W. Niu<br>
 <i>IEEE Symposium on Security and Privacy</i> (**Oakland**), 2024. <b>CCF-A</b>.
 
 * Demystifying DeFi MEV Activities in Flashbots Bundle. 
