@@ -26,7 +26,7 @@ Javier Ron, <u><b>Zheyuan He</b></u>, Martin Monperrus<br>
 * Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis.
 [[pdf]]()
 [[code]]() <br>
-Shuwei Song, Jiachi Chen*, Ting Chen, Xiapu Luo, Teng Li, Wenwu Yang, Leqing Wang, Weijie Zhang, Feng Luo, <u><b>Zheyuan He</b></u>, Yi Lu, Pan Li<br>
+Shuwei Song, Jiachi Chen, Ting Chen, Xiapu Luo, Teng Li, Wenwu Yang, Leqing Wang, Weijie Zhang, Feng Luo, <u><b>Zheyuan He</b></u>, Yi Lu, Pan Li<br>
 <i>The ACM SIGSOFT International Symposium on Software Testing and Analysis</i> (**ISSTA**), 2024. <b>CCF-A</b>.
 
 * Towards Automatic Discovery of Denial-of-Service Weaknesses in Blockchain Resource Models.
