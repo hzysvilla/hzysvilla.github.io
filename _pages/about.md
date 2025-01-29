@@ -18,6 +18,19 @@ Projects
 Publications
 ======
 
+* Maat: Analyzing and Optimizing Overcharge on Blockchain Storage.
+[[pdf]]()
+[[code]]() <br>
+<u><b>Z. He</b></u>, Z. Li, A. Qiao, J. Li, F. Luo, S. Yang, G. Deing, S. Song, X. Zhang, T. Chen, X. Luo<br>
+<i>USENIX Conference on File and Storage Technologies</i> (**Usenix FAST**), 2025. <b>CCF-A</b>.
+<span style="color:red; font-weight:bold;">Hatched [EIP-7863](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7863.md)</span>
+
+* Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain.
+[[pdf]]()
+[[code]]() <br>
+<u><b>Z. He</b></u>, Z. Li, J. Luo, F. Luo, J. Duan, J. Li, S. Song, X. Luo, T. Chen, X. Zhang<br>
+<i>USENIX Security</i> (**Usenix Sec**), 2025. <b>CCF-A</b>.
+
 * Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks
 [[pdf]](https://arxiv.org/pdf/2411.18401.pdf)
 [[code]]() <br>
@@ -31,7 +44,7 @@ Shuwei Song, Jiachi Chen, Ting Chen, Xiapu Luo, Teng Li, Wenwu Yang, Leqing Wang
 <i>The ACM SIGSOFT International Symposium on Software Testing and Analysis</i> (**ISSTA**), 2024. <b>CCF-A</b>.
 
 * Towards Automatic Discovery of Denial-of-Service Weaknesses in Blockchain Resource Models.
-[[pdf]]()
+[[pdf]](https://ffeng-luo.github.io/papers/ccs24.pdf)
 [[code]]() <br>
 F. Luo, H. Lin, Z. Li, X. Luo, R. Luo, <u><b>Z. He</b></u>, S. Song, T. Chen, W. Luo<br>
 <i>ACM Conference on Computer and Communications Security</i> (**CCS**), 2024. <b>CCF-A</b>.
