@@ -18,7 +18,7 @@ Projects
 Publications
 ======
 
-* <span style="background-color: #ADD8E6"; color: #FFFFFF; font-weight: bold;>[**Usenix FAST25**]</span> Maat: Analyzing and Optimizing Overcharge on Blockchain Storage.
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">[**Usenix FAST25**]</span> Maat: Analyzing and Optimizing Overcharge on Blockchain Storage.
 [[pdf]]()
 [[code]]() <br>
 <u><b>Z. He</b></u>, Z. Li, A. Qiao, J. Li, F. Luo, S. Yang, G. Deing, S. Song, X. Zhang, T. Chen, X. Luo<br>
