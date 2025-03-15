@@ -18,8 +18,13 @@ Projects
 Publications
 ======
 
-* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Usenix FAST25&nbsp;**</span> Maat: Analyzing and Optimizing Overcharge on Blockchain Storage.
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;FSE25&nbsp;**</span> Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.
 [[pdf]]()
+[[code]]() <br>
+Shuwei Song, Ting Chen, Ao Qiao, Xiapu Luo, Leqing Wang, <u><b>Zheyuan He</b></u>, Ting Wang, Xiaodong Lin, Peng He, Wensheng Zhang, and Xiaosong Zhang<br>
+
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Usenix FAST25&nbsp;**</span> Maat: Analyzing and Optimizing Overcharge on Blockchain Storage.
+[[pdf]](https://www.usenix.org/system/files/fast25-he.pdf)
 [[code]]() <br>
 <u><b>Z. He</b></u>, Z. Li, A. Qiao, J. Li, F. Luo, S. Yang, G. Deing, S. Song, X. Zhang, T. Chen, X. Luo<br>
 <i>USENIX Conference on File and Storage Technologies</i>, 2025. <b>CCF-A</b>.<br>
