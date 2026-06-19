@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Zheyuan He is currently pursuing his PhD degree at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/en/index.htm). Concurrently, he is undertaking an exchange program at the lab of [Martin Monperrus](https://www.monperrus.net/martin/). His current research interests include the security of blockchain and client diversity.
+He is the Postdoc under [Prof. Daniel (Xiapu) Luo](https://www4.comp.polyu.edu.hk/~csxluo/) at Hong Kong Polytechnic University.
+He got his PhD degree from the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of [Prof. Xiaosong Zhang](https://faculty.uestc.edu.cn/zhangxiaosong/en/index.htm) and [Prof. Ting Chen](). Besides, he undertook an exchange program at the lab of [Martin Monperrus](https://www.monperrus.net/martin/). His current research interests include the security of blockchain and client diversity.
 
 
 Projects
