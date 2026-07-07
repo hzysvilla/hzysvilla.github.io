@@ -18,7 +18,7 @@ Projects
 Publications
 ======
 
-* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Arxiv5&nbsp;**</span> A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges.
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Arxiv&nbsp;**</span> A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges.
 [[pdf]](https://arxiv.org/pdf/2607.02605)
 [[code]]() <br>
 Zheyuan He, Jiaxun Dong, Zihao Li, Ting Chen, Gelei Deng, Feng Luo, Jinkun Ji, Yuanlong Cao, and Xiapu Luo<br>
