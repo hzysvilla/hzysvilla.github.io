@@ -18,6 +18,11 @@ Projects
 Publications
 ======
 
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Arxiv5&nbsp;**</span> A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges.
+[[pdf]](https://arxiv.org/pdf/2607.02605)
+[[code]]() <br>
+Zheyuan He, Jiaxun Dong, Zihao Li, Ting Chen, Gelei Deng, Feng Luo, Jinkun Ji, Yuanlong Cao, and Xiapu Luo<br>
+
 * <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;FSE25&nbsp;**</span> Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security.
 [[pdf]]()
 [[code]]() <br>
@@ -37,7 +42,7 @@ Shuwei Song, Ting Chen, Ao Qiao, Xiapu Luo, Leqing Wang, <u><b>Zheyuan He</b></u
 <u><b>Z. He</b></u>, Z. Li, J. Luo, F. Luo, J. Duan, J. Li, S. Song, X. Luo, T. Chen, X. Zhang<br>
 <i>USENIX Security</i>, 2025. <b>CCF-A</b>.
 
-* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;Arxiv&nbsp;**</span> Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks
+* <span style="background-color: #ADD8E6; color: #FFFFFF; font-weight: bold;">**&nbsp;ACM DLT&nbsp;**</span> Proving and Rewarding Client Diversity to Strengthen Resilience of Blockchain Networks
 [[pdf]](https://arxiv.org/pdf/2411.18401.pdf)
 [[code]]() <br>
 Javier Ron, <u><b>Zheyuan He</b></u>, Martin Monperrus<br>
